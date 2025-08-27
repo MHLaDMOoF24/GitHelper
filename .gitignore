@@ -21,4 +21,5 @@ obj/
 README.md
 
 # Things you don't want others to know about
-appsettings.json
+appsettings.*
+launchSettings.*
